@@ -12,6 +12,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
+              <mainClass>me.crosant.minecraftversionchanger.MinecraftVersionChanger</mainClass>
             </manifest>
           </archive>
         </configuration>
